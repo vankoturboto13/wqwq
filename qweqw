@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,bTV BG
+http://46.10.160.10:8004/play/hls/btv/index.m3u8
+#EXTINF:-1,Nova BG
+http://46.10.160.10:8004/play/hls/nova/index.m3u8
+#EXTINF:-1,БНТ 1
+http://46.10.160.10:8004/play/hls/bnt/index.m3u8
+#EXTINF:-1,BNT 2
+http://46.10.160.10:8004/play/hls/bnt2/index.m3u8
+#EXTINF:-1,BNT HD
+http://46.10.160.10:8004/play/hls/bnthd/index.m3u8
+#EXTINF:-1,Bulgaria on Air
+http://46.10.160.10:8004/play/hls/bgonair/index.m3u8
+#EXTINF:-1,TV Pop
+http://v3.tustreaming.cl/tvpop/live1/index.m3u8
